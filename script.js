@@ -29,7 +29,7 @@ const username = form.username.value
 if(usernamePattern.test(username)){
     feedback.textContent=`${username} is a valid username.`;
 } else{
-    feedback.textContent=`Must include only letters and be a min of 6 characters!!!`;
+    feedback.textContent=`Must include only letters and be between 6-12 characthers long!!!`;
 }
 
 });
