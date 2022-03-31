@@ -1,0 +1,28 @@
+body{
+    background: #eee;
+}
+form{
+    max-width: 200px;
+    margin: 150px auto;
+    background: white;
+    padding: 50px;
+    border: 1px solid rgb(212, 210, 210);
+    border-radius: 5px;
+}
+input{
+    display: block;
+    margin: 20px auto;
+    padding: 4px;
+}
+.feedback{
+    color: red;
+    font-size: smaller;
+}
+.passed{
+    border: 3px solid green;
+    background-color: rgb(195, 233, 195);
+}
+.failed{
+    border: 3px solid red;
+    background-color: rgb(234, 157, 157);
+}
