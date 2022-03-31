@@ -10,7 +10,7 @@
 
 ## Description
 
-In this program, you will witness my ability to interact and manipulate the DOM. 
+In this program, you will witness my ability to interact and manipulate the DOM and the use of RegEx for validation.
 
 ## Deployment: 
 
